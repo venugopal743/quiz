@@ -3,7 +3,6 @@
 A full-stack Quiz Application that allows users to create, attempt, and analyze quizzes with secure authentication, private access codes, leaderboards, and performance analytics.
 
 **Live Demo:** https://quiz-frontend-0g4l.onrender.com/  
-**GitHub Repository:** https://github.com/Subhash-2005/quiz  
 
 ---
 
@@ -167,13 +166,5 @@ A full-stack Quiz Application that allows users to create, attempt, and analyze 
 
 ---
 
-##  Author
 
-**Subhash Talluri**  
-- Full Stack Developer  
-- GitHub: https://github.com/Subhash-2005  
-- LinkedIn: https://linkedin.com/in/tallurisubhash  
 
----
-
- If you like this project, feel free to star the repository! 
